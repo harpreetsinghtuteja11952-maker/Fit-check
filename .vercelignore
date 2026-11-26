@@ -1,0 +1,6 @@
+node_modules
+.git
+.gemini
+uploads
+data/*.db-wal
+data/*.db-shm

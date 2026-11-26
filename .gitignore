@@ -1,0 +1,10 @@
+node_modules
+.vercel
+uploads/*
+!uploads/.gitkeep
+data/*.db-wal
+data/*.db-shm
+.DS_Store
+*.log
+
+.vercel
